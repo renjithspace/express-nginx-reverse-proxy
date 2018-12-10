@@ -1,0 +1,15 @@
+{
+  "name": "express-nginx-reverse-proxy",
+  "version": "1.0.0",
+  "description": "Serve ExpressJS app in Nginx server with reverse proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "renjithspace",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
