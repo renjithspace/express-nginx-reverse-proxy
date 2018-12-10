@@ -2,9 +2,9 @@
   "name": "express-nginx-reverse-proxy",
   "version": "1.0.0",
   "description": "Serve ExpressJS app in Nginx server with reverse proxy",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "renjithspace",
